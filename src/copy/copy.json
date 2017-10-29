@@ -1,0 +1,48 @@
+﻿{
+  "copy": {
+    "home": {
+      "name": "ABCannabis",
+      "title": "Medical cannabis oil pure, organic pain relief and anti-inflammation",
+      "header": "The natural way",
+      "copy": "Most of us grew up with the image of cannabis as something smoked in dingy alleyways or passed around at student parties. We were never told about the centuries-old use of cannabis oil for the medical treatment of pain, inflammation and depression."
+    },
+    "CannabisOil": [
+      {
+        "header": "Changing our understanding of the cannabis plant",
+        "copy": "We need to change our understanding of this plant and to appreciate its significant anti-inflammatory, painkilling and antidepressant properties."
+      },
+      {
+        "header": "Cannabis oil reduces pain, inflammation and depression",
+        "copy": "Cannabis oil has been proven through scientific research to reduce pain and inflammation. When accompanied by a strict food regime it has also been known to cure chronic illnesses such as cancer or rheumatoid arthritis. Medical cannabis oil also ameliorates the side effects of the chemo- or biologic therapy used to treat such conditions."
+      },
+      {
+        "header": "ABCannabis oil is pure, organic and gently extracted",
+        "copy": "If you suffer from a chronic illness, or are living with chronic pain or inflammation which no medication has entirely cured, it may well be time to try medical cannabis oil. But if you are going to do so, you need to know that the oil you are taking is pure oil produced from plants grown organically with no pesticide sprays, and has been extracted without using alcohol or other damaging chemical processes. Should you be offered oil that is dark in colour or resembles Marmite, you can be sure that it is a backyard product extracted by chemical or alcoholic means and contains resulting impurities or harsh chemicals. The oil sold through ABCannabis meets the highest standards of purity from the organically grown plant right through the prodction process. Natural organic coconut oil is used in the extraction process, and the cannabis oil produced is light golden and translucent."
+      }
+    ],
+    "MedicalBenefits": [
+      {
+        "header": "Medical cannabis oil",
+        "copy": "Medical cannabis oil bears no resemblance to the dagga of our imaginations. Only several of the hundreds of different chemicals found in the plant are used in medical cannabis oil, and only one of these has a psychoactive effect. Some types are better for some individuals or illnesses than others, and research is showing that perhaps the most effective for most forms of muscular and skeletal diseases – osteoarthritis, fibromyalgia and the many auto-immune inflammatory arthritis diseases - is a hybrid product using two different strains, THC and CBD.  While CBD has no psychoactive properties, THC gives a lift to the spirits. Together they reduce pain, inflammation and the depression which is often a symptom of these conditions."
+      },
+      {
+        "header": "Inflammation the primary cause of pain",
+        "copy": "Chronic pain and chronic diseases virtually all have inflammation as their primary characteristic and can therefore be treated with cannabis oil by calming the inflammation, thus reducing the pain that inflammation causes."
+      },
+      {
+        "header": "Cannabis oil reduces pain, inflammation and depression",
+        "copy": "Cannabis oil has been proven through scientific research to reduce pain and inflammation. When accompanied by a strict food regime it has also been known to cure chronic illnesses such as cancer or rheumatoid arthritis. Medical cannabis oil also ameliorates the side effects of the chemo- or biologic therapy used to treat such conditions."
+      }
+    ],
+    "Contact":{
+      "Copy": "If you would like to find out more about how to integrate medical cannabis oil into, or even replace, your current treatment, and what prices you can expect to pay, please contact us at:",
+      "Email1v": "mailto:abcannabis@wena.co.za",
+      "Email1": "abcannabis@wena.co.za",
+      "Email2v": "mailto:bridgeb@telkomsa.net",
+      "Email2": "bridgeb@telkomsa.net",
+      "Phone1": "(072) 218-1829",
+      "Phone2": "(021) 851-3033"
+    }
+  }
+
+}
