@@ -3,7 +3,7 @@ import Router from 'vue-router';
 import Home from '@/components/Home';
 import Oil from '@/components/Oil';
 import Contact from '@/components/Contact';
-import Benefits from '@/components/Benefits';
+import Products from '@/components/Products';
 
 
 Vue.use(Router);
@@ -12,7 +12,7 @@ export default new Router({
   mode: 'history',
   routes: [
     {
-      path: '/',
+      path: '',
       name: 'Home',
       component: Home
     },
@@ -22,9 +22,9 @@ export default new Router({
       component: Oil
     },
     {
-      path: '/benefits',
-      name: 'benefits',
-      component: Benefits
+      path: '/products',
+      name: 'products',
+      component: Products
     },
     {
       path: '/contact',

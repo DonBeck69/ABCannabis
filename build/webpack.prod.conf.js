@@ -94,7 +94,12 @@ const webpackConfig = merge(baseWebpackConfig, {
         to: config.build.assetsSubDirectory,
         ignore: ['.*']
       }
-    ])
+    ]),
+    new webpack.ProvidePlugin({   
+      jQuery: 'jquery',
+      $: 'jquery',
+      jquery: 'jquery'
+    })
   ]
 })
 
@@ -113,13 +118,10 @@ if (config.build.productionGzip) {
       threshold: 10240,
       minRatio: 0.8
     })
-  ),
-  new webpack.ProvidePlugin({   
-    jQuery: 'jquery',
-    $: 'jquery',
-    jquery: 'jquery'
-  })
+  )  
 }
+
+
 
 if (config.build.bundleAnalyzerReport) {
   const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin

@@ -5,7 +5,7 @@
         <h3 class="panel-title">{{item.header}}</h3>
       </div>
       <div class="panel-body">
-        <p>{{item.copy}}</p>
+        <p v-for="par in item.copy" :key="par.id">{{par}}</p>
       </div>
     </div>
   </div>

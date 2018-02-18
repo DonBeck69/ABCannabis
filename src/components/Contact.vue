@@ -8,39 +8,32 @@
       <ul class="list-group">
         <li class="list-group-item">
           <div>
+            <span>{{copy.Contact.CellLable}}</span>
+            <span class="glyphicon glyphicon-phone">
+            </span>
+            <span>{{ copy.Contact.CelNo }}
+            </span>
+          </div>
+        </li>
+        <li class="list-group-item">
+          <div>
+            <span>{{copy.Contact.LandLineLable}}</span>
+            <span class="glyphicon glyphicon-phone">
+            </span>
+            <span>{{ copy.Contact.LanNo }}
+            </span>
+          </div>
+        </li>
+        <li class="list-group-item">
+          <div>
+            <span>{{copy.Contact.EmailLable}}</span>
             <span class="glyphicon glyphicon-envelope">
             </span>
             <span>
-              <a :href="copy.Contact.Email1v">{{ copy.Contact.Email1 }}</a>
+              <a :href="copy.Contact.Emailv">{{ copy.Contact.Email }}</a>
             </span>
           </div>
         </li>
-        <li class="list-group-item">
-          <div>
-            <span class="glyphicon glyphicon-envelope">
-            </span>
-            <span>
-              <a :href="copy.Contact.Email2v">{{ copy.Contact.Email2 }}</a>
-            </span>
-          </div>
-        </li>
-        <li class="list-group-item">
-          <div>
-            <span class="glyphicon glyphicon-phone">
-            </span>
-            <span>{{ copy.Contact.Phone1 }}
-            </span>
-          </div>
-        </li>
-        <li class="list-group-item">
-          <div>
-            <span class="glyphicon glyphicon-phone">
-            </span>
-            <span>{{ copy.Contact.Phone2 }}
-            </span>
-          </div>
-        </li>
-
       </ul>
     </div>
 

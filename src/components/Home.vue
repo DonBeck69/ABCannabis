@@ -5,7 +5,8 @@
           <h3 class="panel-title">{{copy.home.header}}</h3>
         </div>
         <div>
-          <p class="panel-body">{{copy.home.copy}}</p>
+          <p class="panel-body">{{copy.home.paragraph1}}</p>
+          <p class="panel-body">{{copy.home.paragraph2}}</p>
         </div>
   </div>
   </div>

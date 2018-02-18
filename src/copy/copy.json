@@ -1,48 +1,94 @@
 ﻿{
   "copy": {
+    "nav": {
+      "home": "Home",
+      "oil": "Panacea Medical Oil",
+      "products": "Products",
+      "contact": "Contact us"
+    },
     "home": {
-      "name": "ABCannabis",
+      "name": "ABC Organics",
       "title": "Medical cannabis oil pure, organic pain relief and anti-inflammation",
       "header": "The natural way",
-      "copy": "Most of us grew up with the image of cannabis as something smoked in dingy alleyways or passed around at student parties. We were never told about the centuries-old use of cannabis oil for the medical treatment of pain, inflammation and depression."
+      "paragraph1": "ABC Organics stocks and distributes Panacea medical grade oil products for the relief of pain, inflammation and depression. In some cases, our products help people who suffer from chronic diseases such as cancer and some forms of arthritis. They may also greatly improve the quality of life for people with conditions such as diabetes types 1 and 2.",
+      "paragraph2": "Based in the beautiful Helderberg area of the Cape Province of South Africa, ABC Organics delivers by hand locally, and by courier to anywhere in South Africa and further afield."
     },
     "CannabisOil": [
       {
-        "header": "Changing our understanding of the cannabis plant",
-        "copy": "We need to change our understanding of this plant and to appreciate its significant anti-inflammatory, painkilling and antidepressant properties."
+        "header": "Panacea Medical Oil",
+        "copy": [
+          "Panacea medical oil products are made up of several different blends of various strains of oil from the cannabis plant, depending on what each product is for. The plants are grown in a controlled organic environment and the oil extracted under germ- and dust-free conditions. The resulting oil is absolutely pure and when ingested or used topically, it has no side-effects at all, compared to the sometimes dangerous side effects of the average Western medication."
+        ]
       },
       {
-        "header": "Cannabis oil reduces pain, inflammation and depression",
-        "copy": "Cannabis oil has been proven through scientific research to reduce pain and inflammation. When accompanied by a strict food regime it has also been known to cure chronic illnesses such as cancer or rheumatoid arthritis. Medical cannabis oil also ameliorates the side effects of the chemo- or biologic therapy used to treat such conditions."
-      },
-      {
-        "header": "ABCannabis oil is pure, organic and gently extracted",
-        "copy": "If you suffer from a chronic illness, or are living with chronic pain or inflammation which no medication has entirely cured, it may well be time to try medical cannabis oil. But if you are going to do so, you need to know that the oil you are taking is pure oil produced from plants grown organically with no pesticide sprays, and has been extracted without using alcohol or other damaging chemical processes. Should you be offered oil that is dark in colour or resembles Marmite, you can be sure that it is a backyard product extracted by chemical or alcoholic means and contains resulting impurities or harsh chemicals. The oil sold through ABCannabis meets the highest standards of purity from the organically grown plant right through the prodction process. Natural organic coconut oil is used in the extraction process, and the cannabis oil produced is light golden and translucent."
+        "header": "Helping others first",
+        "copy": [
+          "The ethos of the manufacturers of Panacea oil is to help others first, and earn a living second.",
+          "For this reason, ABC Organics will not sell these products in supermarkets or other pharmaceutical outlets. Panacea Oil’s owners foresee that if Panacea oil products were to go into these stores, the price would automatically rise. Because of the substantially better results of Panacea oil products and their lack of side effects compared to the many pharmaceutical products, these companies would suffer from the competition. This would inevitably lead to the owners being forced to sell out to one of them.",
+          "So you will only find products manufactured using Panacea medical oil either through personal contact or via the website of stockist such as ABC Organics. You may however hear about it from friends and family who have already tried it. They will tell you that it is astonishing in the way it relieves their symptoms compared to other products they have tried."
+        ]
       }
     ],
-    "MedicalBenefits": [
+    "price": "Price:",
+    "products": [
       {
-        "header": "Medical cannabis oil",
-        "copy": "Medical cannabis oil bears no resemblance to the dagga of our imaginations. Only several of the hundreds of different chemicals found in the plant are used in medical cannabis oil, and only one of these has a psychoactive effect. Some types are better for some individuals or illnesses than others, and research is showing that perhaps the most effective for most forms of muscular and skeletal diseases – osteoarthritis, fibromyalgia and the many auto-immune inflammatory arthritis diseases - is a hybrid product using two different strains, THC and CBD.  While CBD has no psychoactive properties, THC gives a lift to the spirits. Together they reduce pain, inflammation and the depression which is often a symptom of these conditions."
+        "header": "Panacea Ultra Pain Balm",
+        "copy": [
+          "This topical cream is rubbed gently into the skin at any sore spot on the body and gives almost instant relief for most people. A small minority may need to use it for several days to feel relief.",
+          "Panacea Balm is the result of a casual conversation between Malcolm Galt, a partner in Panacea Oil, Bridget Brown, owner of ABC Organics and Aletta van der Watt, CEO of the Arthritis Foundation of South Africa. Despite the wide range of products on the market for arthritis pain, the discussion went around the fact that there is still a need for a topical product which would truly relieve the symptoms of arthritis pain without the dangerous side effects of painkillers, anti-inflammatories and anti-depressants that have to be swallowed. ",
+          "In liaison with several scientists from the nearby university, a product was then developed that met these criteria. During the process, the cream was tested by a randomly selected group of patients from the Arthritis Foundation’s Helderberg branch. The final product Panacea Ultra Pain Balm contains a selection of no less than 16 different strains of oil extracted from the cannabis plant and constituted into a specific formula, plus small quantities of several other natural healing oils.",
+          "Although formulated for people with any of the 150 different types of arthritis, the Balm works on almost every other pain the human body can produce. Every day, we hear reports of new uses customers have found for the Balm.",
+          "It is important not to smother yourself in the balm – take out only as much as fits on your little fingernail, and massage it in thoroughly over the sore joints or muscles. For headaches, massage it into the temples.",
+          "For purchasers from outside South Africa: please check the exchange rate between your currency and the South African Rand as it varies virtually from day to day. At the time of last editing the page, it stood at R11.89 to the US Dollar"
+        ],
+        "pricing": [
+          {
+            "package": "50ml jar",
+            "cost": "R500"
+          },
+          {
+            "package": "125ml jar",
+            "cost": "R950"
+          }
+        ]
       },
       {
-        "header": "Inflammation the primary cause of pain",
-        "copy": "Chronic pain and chronic diseases virtually all have inflammation as their primary characteristic and can therefore be treated with cannabis oil by calming the inflammation, thus reducing the pain that inflammation causes."
+        "header": "Panacea Oil Capsules",
+        "copy": [
+          "Each capsule contains 200ml of a hybrid cannabis oil made up of two strains: THC and CBD. The capsule is very strong as it is intended for people in severe pain. For most people it is best taken at night for a really good night’s restful and refreshing sleep.  The capsules dramatically relieve pain, as well as inflammation and depression.",
+          "When taken with a diet of fresh organic products, the capsules have been known to stop even cancer in its tracks.",
+          "In cases of extreme pain, the capsules can be taken during the day, but preferably not if you are about to drive, go to work or shopping, or are going out visiting friends. If taken in the daytime, it is best to follow it up with a nap. If you find the 200ml too strong for you it’s easy to twist the capsule open and divide the dose. In that case it will of course last longer."
+        ],
+        "pricing": [
+          {
+            "package": "30 Capsules ",
+            "cost": "R1500"
+          }
+        ]
       },
       {
-        "header": "Cannabis oil reduces pain, inflammation and depression",
-        "copy": "Cannabis oil has been proven through scientific research to reduce pain and inflammation. When accompanied by a strict food regime it has also been known to cure chronic illnesses such as cancer or rheumatoid arthritis. Medical cannabis oil also ameliorates the side effects of the chemo- or biologic therapy used to treat such conditions."
+        "header": "Panacea Oil Drops",
+        "copy": [
+          "The drops come in a small bottle with its own dropper. This makes it very easy to control the number of drops that is optimal to relieve your arthritis and other pain, inflammation and depression. ",
+          "With the product you will receive a leaflet explaining the dosage according to various illnesses. For example, most people with Rheumatoid Arthritis will take 8 -10 drops per dose while others with a headache may take  2 drops per dose. At 10ml oil per dose, there are 400 drops in one bottle. So although the bottles look very small, they will last a long time."
+        ],
+        "pricing": [
+          {
+            "package": "10ml",
+            "cost": "R750"
+          }
+        ]
       }
     ],
-    "Contact":{
-      "Copy": "If you would like to find out more about how to integrate medical cannabis oil into, or even replace, your current treatment, and what prices you can expect to pay, please contact us at:",
-      "Email1v": "mailto:abcannabis@wena.co.za",
-      "Email1": "abcannabis@wena.co.za",
-      "Email2v": "mailto:bridgeb@telkomsa.net",
-      "Email2": "bridgeb@telkomsa.net",
-      "Phone1": "(072) 218-1829",
-      "Phone2": "(021) 851-3033"
+    "Contact": {
+      "Copy": "To reach ABC Organics, contact Bridget Brown:",
+      "CellLable": "Telephone:",
+      "LandLineLable": "Landline:",
+      "EmailLable": "Email:",
+      "Emailv": "mailto:bridgeb@telkomsa.net",
+      "Email": "bridgeb@telkomsa.net",
+      "CelNo": "+27 72 218 1829",
+      "LanNo": "+27 21 851 3033"
     }
   }
-
 }
